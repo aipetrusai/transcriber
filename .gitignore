@@ -1,0 +1,10 @@
+__pycache__/
+*.mp3
+*.wav
+*.m4a
+*.txt
+.env
+.venv/
+venv/
+dist/
+build/
